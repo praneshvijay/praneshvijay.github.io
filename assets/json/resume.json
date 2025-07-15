@@ -26,7 +26,7 @@
       "url": "https://www.oracle.com/in/",
       "startDate": "2025-05-14",
       "endDate": "2025-07-08",
-      "summary": "Built automation tools for Network Development using Python and Oracle Cloud Infrastructure, reducing manual efforts.",
+      "summary": "Built automation tools for Network Development using Python and Oracle Cloud Infrastructure, reducing manual efforts",
       "highlights": ["Python", "OCI", "Automation", "Network Operations"]
     }
   ],
@@ -37,7 +37,7 @@
       "position": "President",
       "url": "https://cse.iitkgp.ac.in/~depsoc/index.html",
       "startDate": "2025-05-01",
-      "summary": "Leading the official CSE departmental society, organizing technical events, workshops, and mentorship initiatives."
+      "summary": "Leading the official CSE departmental society, organizing technical events, workshops, and other initiatives"
     }
   ],
   "education": [
@@ -116,7 +116,7 @@
   "projects": [
     {
       "name": "Reliable UDP-Based Socket Library",
-      "summary": "Built a reliable message-oriented transport protocol over UDP with multithreading and flow control.",
+      "summary": "Built a reliable message-oriented transport protocol over UDP with multithreading and flow control",
       "highlights": [
         "Sliding-window flow control, Go-Back-N ARQ",
         "Multithreaded sockets with shared memory and synchronization",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Single Cycle RISC Processor",
-      "summary": "Designed and synthesized a 32-bit RISC processor in Verilog with full ISA support.",
+      "summary": "Designed and synthesized a 32-bit RISC processor in Verilog with full ISA support",
       "highlights": [
         "Implemented 16 registers and control unit with 40+ instructions",
         "Python-based assembler for MIPS32-like ISA",
