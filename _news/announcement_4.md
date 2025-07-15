@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-12-15 07:59:00-0400
+date: 2025-07-08 05:00:00+0530
 inline: true
 related_posts: false
 ---
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-Won Gold in Adobe Image Classification Challenge at Inter IIT Tech Meet 2024
+Completed Project Internship at [Oracle](https://www.oracle.com/in/), Bangalore

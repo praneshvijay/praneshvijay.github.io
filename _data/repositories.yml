@@ -1,11 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - praneshvijay
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - praneshvijay/transaction-manager
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
