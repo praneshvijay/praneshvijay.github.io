@@ -33,7 +33,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a final year undergraduate student at [IIT Kharagpur](https://www.iitkgp.ac.in/) pursuing a B.Tech in [Computer Science & Engineering](https://cse.iitkgp.ac.in/).
+Hi, I am **Pranesh Vijay B**, a final year undergraduate student at [IIT Kharagpur](https://www.iitkgp.ac.in/) pursuing a B.Tech in [Computer Science & Engineering](https://cse.iitkgp.ac.in/).
 
 I take a strong interest in machine learning and deep learning, particularly in the domains of `natural language processing` and `computer vision`. Lately, I’ve been delving into the `interpretability of models`, with a focus on `prompt routers` — investigating how they make routing decisions and what influences their behavior.
 
